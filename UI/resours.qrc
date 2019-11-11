@@ -1,0 +1,77 @@
+<RCC>
+  <qresource prefix="home">
+    <file>homebg.jpg</file>
+    <file>home-cm.png</file>
+    <file>home-gesture.png</file>
+    <file>home-test.png</file>
+    <file>home-wander.png</file>
+  </qresource>
+  <qresource prefix="ttest">
+    <file>tBase.png</file>
+    <file>tbg.jpg</file>
+    <file>tHead.png</file>
+    <file>tLeft Arm.png</file>
+    <file>tRight Arm.png</file>
+    <file>ttest.png</file>
+    <file>ttest  bg.jpg</file>
+  </qresource>
+  <qresource prefix="arrow">
+    <file>cheadbg.jpg</file>
+    <file>hback.png</file>
+    <file>hforward.png</file>
+    <file>hhead key bg.jpg</file>
+    <file>hleft.png</file>
+    <file>hright.png</file>
+    <file>hstop.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="ggesture">
+    <file>gshake.jpg</file>
+    <file>gstart.png</file>
+    <file>gstop.png</file>
+    <file>gvoice.jpg</file>
+  </qresource>
+  <qresource prefix="wander">
+    <file>wcustom.png</file>
+    <file>wgesture.png</file>
+    <file>wstart.png</file>
+    <file>wstop.png</file>
+    <file>wtest.png</file>
+    <file>wwander.png</file>
+  </qresource>
+  <qresource prefix="custom">
+    <file>wWander.jpg</file>
+    <file>arm.png</file>
+    <file>base.png</file>
+    <file>cusgesture.png</file>
+    <file>custest.png</file>
+    <file>custom mode.png</file>
+    <file>custom mode BG.jpg</file>
+    <file>cuswander.png</file>
+    <file>head.png</file>
+  </qresource>
+  <qresource prefix="test">
+    <file>Test A.png</file>
+    <file>Test bg.jpg</file>
+    <file>Test cm.png</file>
+    <file>Test gesture.png</file>
+    <file>Test M.png</file>
+    <file>Test test.png</file>
+    <file>Test wander.png</file>
+  </qresource>
+  <qresource prefix="gesture">
+    <file>Gesture bg.jpg</file>
+    <file>Gesture cm.png</file>
+    <file>Gesture gesture.png</file>
+    <file>Gesture image T.png</file>
+    <file>Gesture speech.png</file>
+    <file>Gesture test.png</file>
+    <file>Gesture wander.png</file>
+    <file>shakehand.png</file>
+  </qresource>
+  <qresource prefix="menu">
+    <file>menubg.jpg</file>
+    <file>Menu but.png</file>
+    <file>setting but.png</file>
+  </qresource>
+</RCC>
