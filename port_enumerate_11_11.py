@@ -54,6 +54,7 @@ def id_enquiry(ser, ser_read_thread):
 
 
 def read_from_port(ser, flag_index):
+
 	global ser_read_thread_active_flag_list
 	# print("READING FROM PORT :", flag_index)
 	while ser_read_thread_active_flag_list[flag_index]:
