@@ -53,7 +53,7 @@ message-filters==1.14.3
 numpy==1.16.4
 opencv-python==4.1.0.25
 playsound==1.2.2
-protobuf==3.9.0
+protobuf==3.15.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
 PyAudio==0.2.11
