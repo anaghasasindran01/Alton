@@ -50,7 +50,7 @@ jmespath==0.9.4
 kdl-parser-py==1.13.1
 laser-geometry==1.6.4
 message-filters==1.14.3
-numpy==1.16.4
+numpy==1.22.0
 opencv-python==4.1.0.25
 playsound==1.2.2
 protobuf==3.9.0
